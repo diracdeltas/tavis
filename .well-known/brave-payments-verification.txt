@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: tavis-ci.org
+Token: 2e56701ff820ff2eccf628e26cf6dc05e8fe4af7da78028b213922a6102aee74
